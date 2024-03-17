@@ -1,0 +1,76 @@
+231
+456
+780
+YES WE FOUND THE GOAL AND IT COSTED US: 16 Moves
+
+THE OPTIMAL PATH TO FIND THE GOAL IS:
+at the 0th Move:
+231
+456
+780
+at the 1th Move:
+231
+450
+786
+at the 2th Move:
+230
+451
+786
+at the 3th Move:
+203
+451
+786
+at the 4th Move:
+253
+401
+786
+at the 5th Move:
+253
+410
+786
+at the 6th Move:
+253
+416
+780
+at the 7th Move:
+253
+416
+708
+at the 8th Move:
+253
+416
+078
+at the 9th Move:
+253
+016
+478
+at the 10th Move:
+253
+106
+478
+at the 11th Move:
+203
+156
+478
+at the 12th Move:
+023
+156
+478
+at the 13th Move:
+123
+056
+478
+at the 14th Move:
+123
+456
+078
+at the 15th Move:
+123
+456
+708
+at the 16th Move:
+123
+456
+780
+
+Process finished with exit code 0

@@ -1,0 +1,5315 @@
+231
+456
+780
+THE PATH TO FIND THE GOAL IS:
+
+at the 0th Move:
+231
+456
+780
+at the 1th Move:
+231
+456
+708
+at the 2th Move:
+231
+456
+078
+at the 3th Move:
+231
+056
+478
+at the 4th Move:
+231
+506
+478
+at the 5th Move:
+231
+560
+478
+at the 6th Move:
+230
+561
+478
+at the 7th Move:
+203
+561
+478
+at the 8th Move:
+023
+561
+478
+at the 9th Move:
+523
+061
+478
+at the 10th Move:
+523
+601
+478
+at the 11th Move:
+523
+610
+478
+at the 12th Move:
+520
+613
+478
+at the 13th Move:
+502
+613
+478
+at the 14th Move:
+052
+613
+478
+at the 15th Move:
+652
+013
+478
+at the 16th Move:
+652
+103
+478
+at the 17th Move:
+652
+130
+478
+at the 18th Move:
+650
+132
+478
+at the 19th Move:
+605
+132
+478
+at the 20th Move:
+065
+132
+478
+at the 21th Move:
+165
+032
+478
+at the 22th Move:
+165
+302
+478
+at the 23th Move:
+165
+320
+478
+at the 24th Move:
+160
+325
+478
+at the 25th Move:
+106
+325
+478
+at the 26th Move:
+016
+325
+478
+at the 27th Move:
+316
+025
+478
+at the 28th Move:
+316
+205
+478
+at the 29th Move:
+316
+250
+478
+at the 30th Move:
+310
+256
+478
+at the 31th Move:
+301
+256
+478
+at the 32th Move:
+351
+206
+478
+at the 33th Move:
+351
+260
+478
+at the 34th Move:
+350
+261
+478
+at the 35th Move:
+305
+261
+478
+at the 36th Move:
+035
+261
+478
+at the 37th Move:
+235
+061
+478
+at the 38th Move:
+235
+601
+478
+at the 39th Move:
+235
+610
+478
+at the 40th Move:
+230
+615
+478
+at the 41th Move:
+203
+615
+478
+at the 42th Move:
+023
+615
+478
+at the 43th Move:
+623
+015
+478
+at the 44th Move:
+623
+105
+478
+at the 45th Move:
+623
+150
+478
+at the 46th Move:
+623
+158
+470
+at the 47th Move:
+623
+158
+407
+at the 48th Move:
+623
+158
+047
+at the 49th Move:
+623
+058
+147
+at the 50th Move:
+623
+508
+147
+at the 51th Move:
+623
+580
+147
+at the 52th Move:
+620
+583
+147
+at the 53th Move:
+602
+583
+147
+at the 54th Move:
+062
+583
+147
+at the 55th Move:
+562
+083
+147
+at the 56th Move:
+562
+803
+147
+at the 57th Move:
+562
+830
+147
+at the 58th Move:
+560
+832
+147
+at the 59th Move:
+506
+832
+147
+at the 60th Move:
+056
+832
+147
+at the 61th Move:
+856
+032
+147
+at the 62th Move:
+856
+302
+147
+at the 63th Move:
+856
+320
+147
+at the 64th Move:
+850
+326
+147
+at the 65th Move:
+805
+326
+147
+at the 66th Move:
+085
+326
+147
+at the 67th Move:
+385
+026
+147
+at the 68th Move:
+385
+206
+147
+at the 69th Move:
+385
+260
+147
+at the 70th Move:
+380
+265
+147
+at the 71th Move:
+308
+265
+147
+at the 72th Move:
+038
+265
+147
+at the 73th Move:
+238
+065
+147
+at the 74th Move:
+238
+605
+147
+at the 75th Move:
+238
+650
+147
+at the 76th Move:
+230
+658
+147
+at the 77th Move:
+203
+658
+147
+at the 78th Move:
+253
+608
+147
+at the 79th Move:
+253
+680
+147
+at the 80th Move:
+250
+683
+147
+at the 81th Move:
+205
+683
+147
+at the 82th Move:
+025
+683
+147
+at the 83th Move:
+625
+083
+147
+at the 84th Move:
+625
+803
+147
+at the 85th Move:
+625
+830
+147
+at the 86th Move:
+620
+835
+147
+at the 87th Move:
+602
+835
+147
+at the 88th Move:
+062
+835
+147
+at the 89th Move:
+862
+035
+147
+at the 90th Move:
+862
+305
+147
+at the 91th Move:
+862
+350
+147
+at the 92th Move:
+862
+357
+140
+at the 93th Move:
+862
+357
+104
+at the 94th Move:
+862
+357
+014
+at the 95th Move:
+862
+057
+314
+at the 96th Move:
+862
+507
+314
+at the 97th Move:
+862
+570
+314
+at the 98th Move:
+860
+572
+314
+at the 99th Move:
+806
+572
+314
+at the 100th Move:
+086
+572
+314
+at the 101th Move:
+586
+072
+314
+at the 102th Move:
+586
+702
+314
+at the 103th Move:
+586
+720
+314
+at the 104th Move:
+580
+726
+314
+at the 105th Move:
+508
+726
+314
+at the 106th Move:
+058
+726
+314
+at the 107th Move:
+758
+026
+314
+at the 108th Move:
+758
+206
+314
+at the 109th Move:
+758
+260
+314
+at the 110th Move:
+750
+268
+314
+at the 111th Move:
+705
+268
+314
+at the 112th Move:
+075
+268
+314
+at the 113th Move:
+275
+068
+314
+at the 114th Move:
+275
+608
+314
+at the 115th Move:
+275
+680
+314
+at the 116th Move:
+270
+685
+314
+at the 117th Move:
+207
+685
+314
+at the 118th Move:
+027
+685
+314
+at the 119th Move:
+627
+085
+314
+at the 120th Move:
+627
+805
+314
+at the 121th Move:
+627
+850
+314
+at the 122th Move:
+620
+857
+314
+at the 123th Move:
+602
+857
+314
+at the 124th Move:
+652
+807
+314
+at the 125th Move:
+652
+870
+314
+at the 126th Move:
+650
+872
+314
+at the 127th Move:
+605
+872
+314
+at the 128th Move:
+065
+872
+314
+at the 129th Move:
+865
+072
+314
+at the 130th Move:
+865
+702
+314
+at the 131th Move:
+865
+720
+314
+at the 132th Move:
+860
+725
+314
+at the 133th Move:
+806
+725
+314
+at the 134th Move:
+086
+725
+314
+at the 135th Move:
+786
+025
+314
+at the 136th Move:
+786
+205
+314
+at the 137th Move:
+786
+250
+314
+at the 138th Move:
+786
+254
+310
+at the 139th Move:
+786
+254
+301
+at the 140th Move:
+786
+254
+031
+at the 141th Move:
+786
+054
+231
+at the 142th Move:
+786
+504
+231
+at the 143th Move:
+786
+540
+231
+at the 144th Move:
+780
+546
+231
+at the 145th Move:
+708
+546
+231
+at the 146th Move:
+078
+546
+231
+at the 147th Move:
+578
+046
+231
+at the 148th Move:
+578
+406
+231
+at the 149th Move:
+578
+460
+231
+at the 150th Move:
+570
+468
+231
+at the 151th Move:
+507
+468
+231
+at the 152th Move:
+057
+468
+231
+at the 153th Move:
+457
+068
+231
+at the 154th Move:
+457
+608
+231
+at the 155th Move:
+457
+680
+231
+at the 156th Move:
+450
+687
+231
+at the 157th Move:
+405
+687
+231
+at the 158th Move:
+045
+687
+231
+at the 159th Move:
+645
+087
+231
+at the 160th Move:
+645
+807
+231
+at the 161th Move:
+645
+870
+231
+at the 162th Move:
+640
+875
+231
+at the 163th Move:
+604
+875
+231
+at the 164th Move:
+064
+875
+231
+at the 165th Move:
+864
+075
+231
+at the 166th Move:
+864
+705
+231
+at the 167th Move:
+864
+750
+231
+at the 168th Move:
+860
+754
+231
+at the 169th Move:
+806
+754
+231
+at the 170th Move:
+856
+704
+231
+at the 171th Move:
+856
+740
+231
+at the 172th Move:
+850
+746
+231
+at the 173th Move:
+805
+746
+231
+at the 174th Move:
+085
+746
+231
+at the 175th Move:
+785
+046
+231
+at the 176th Move:
+785
+406
+231
+at the 177th Move:
+785
+460
+231
+at the 178th Move:
+780
+465
+231
+at the 179th Move:
+708
+465
+231
+at the 180th Move:
+078
+465
+231
+at the 181th Move:
+478
+065
+231
+at the 182th Move:
+478
+605
+231
+at the 183th Move:
+478
+650
+231
+at the 184th Move:
+478
+651
+230
+at the 185th Move:
+478
+651
+203
+at the 186th Move:
+478
+651
+023
+at the 187th Move:
+478
+051
+623
+at the 188th Move:
+478
+501
+623
+at the 189th Move:
+478
+510
+623
+at the 190th Move:
+470
+518
+623
+at the 191th Move:
+407
+518
+623
+at the 192th Move:
+047
+518
+623
+at the 193th Move:
+547
+018
+623
+at the 194th Move:
+547
+108
+623
+at the 195th Move:
+547
+180
+623
+at the 196th Move:
+540
+187
+623
+at the 197th Move:
+504
+187
+623
+at the 198th Move:
+054
+187
+623
+at the 199th Move:
+154
+087
+623
+at the 200th Move:
+154
+807
+623
+at the 201th Move:
+154
+870
+623
+at the 202th Move:
+150
+874
+623
+at the 203th Move:
+105
+874
+623
+at the 204th Move:
+015
+874
+623
+at the 205th Move:
+815
+074
+623
+at the 206th Move:
+815
+704
+623
+at the 207th Move:
+815
+740
+623
+at the 208th Move:
+810
+745
+623
+at the 209th Move:
+801
+745
+623
+at the 210th Move:
+081
+745
+623
+at the 211th Move:
+781
+045
+623
+at the 212th Move:
+781
+405
+623
+at the 213th Move:
+781
+450
+623
+at the 214th Move:
+780
+451
+623
+at the 215th Move:
+708
+451
+623
+at the 216th Move:
+758
+401
+623
+at the 217th Move:
+758
+410
+623
+at the 218th Move:
+750
+418
+623
+at the 219th Move:
+705
+418
+623
+at the 220th Move:
+075
+418
+623
+at the 221th Move:
+475
+018
+623
+at the 222th Move:
+475
+108
+623
+at the 223th Move:
+475
+180
+623
+at the 224th Move:
+470
+185
+623
+at the 225th Move:
+407
+185
+623
+at the 226th Move:
+047
+185
+623
+at the 227th Move:
+147
+085
+623
+at the 228th Move:
+147
+805
+623
+at the 229th Move:
+147
+850
+623
+at the 230th Move:
+147
+853
+620
+at the 231th Move:
+147
+853
+602
+at the 232th Move:
+147
+853
+062
+at the 233th Move:
+147
+053
+862
+at the 234th Move:
+147
+503
+862
+at the 235th Move:
+147
+530
+862
+at the 236th Move:
+140
+537
+862
+at the 237th Move:
+104
+537
+862
+at the 238th Move:
+014
+537
+862
+at the 239th Move:
+514
+037
+862
+at the 240th Move:
+514
+307
+862
+at the 241th Move:
+514
+370
+862
+at the 242th Move:
+510
+374
+862
+at the 243th Move:
+501
+374
+862
+at the 244th Move:
+051
+374
+862
+at the 245th Move:
+351
+074
+862
+at the 246th Move:
+351
+704
+862
+at the 247th Move:
+351
+740
+862
+at the 248th Move:
+350
+741
+862
+at the 249th Move:
+305
+741
+862
+at the 250th Move:
+035
+741
+862
+at the 251th Move:
+735
+041
+862
+at the 252th Move:
+735
+401
+862
+at the 253th Move:
+735
+410
+862
+at the 254th Move:
+730
+415
+862
+at the 255th Move:
+703
+415
+862
+at the 256th Move:
+073
+415
+862
+at the 257th Move:
+473
+015
+862
+at the 258th Move:
+473
+105
+862
+at the 259th Move:
+473
+150
+862
+at the 260th Move:
+470
+153
+862
+at the 261th Move:
+407
+153
+862
+at the 262th Move:
+457
+103
+862
+at the 263th Move:
+457
+130
+862
+at the 264th Move:
+450
+137
+862
+at the 265th Move:
+405
+137
+862
+at the 266th Move:
+045
+137
+862
+at the 267th Move:
+145
+037
+862
+at the 268th Move:
+145
+307
+862
+at the 269th Move:
+145
+370
+862
+at the 270th Move:
+140
+375
+862
+at the 271th Move:
+104
+375
+862
+at the 272th Move:
+014
+375
+862
+at the 273th Move:
+314
+075
+862
+at the 274th Move:
+314
+705
+862
+at the 275th Move:
+314
+750
+862
+at the 276th Move:
+314
+752
+860
+at the 277th Move:
+314
+752
+806
+at the 278th Move:
+314
+752
+086
+at the 279th Move:
+314
+052
+786
+at the 280th Move:
+314
+502
+786
+at the 281th Move:
+314
+520
+786
+at the 282th Move:
+310
+524
+786
+at the 283th Move:
+301
+524
+786
+at the 284th Move:
+031
+524
+786
+at the 285th Move:
+531
+024
+786
+at the 286th Move:
+531
+204
+786
+at the 287th Move:
+531
+240
+786
+at the 288th Move:
+530
+241
+786
+at the 289th Move:
+503
+241
+786
+at the 290th Move:
+053
+241
+786
+at the 291th Move:
+253
+041
+786
+at the 292th Move:
+253
+401
+786
+at the 293th Move:
+253
+410
+786
+at the 294th Move:
+250
+413
+786
+at the 295th Move:
+205
+413
+786
+at the 296th Move:
+025
+413
+786
+at the 297th Move:
+425
+013
+786
+at the 298th Move:
+425
+103
+786
+at the 299th Move:
+425
+130
+786
+at the 300th Move:
+420
+135
+786
+at the 301th Move:
+402
+135
+786
+at the 302th Move:
+042
+135
+786
+at the 303th Move:
+142
+035
+786
+at the 304th Move:
+142
+305
+786
+at the 305th Move:
+142
+350
+786
+at the 306th Move:
+140
+352
+786
+at the 307th Move:
+104
+352
+786
+at the 308th Move:
+154
+302
+786
+at the 309th Move:
+154
+320
+786
+at the 310th Move:
+150
+324
+786
+at the 311th Move:
+105
+324
+786
+at the 312th Move:
+015
+324
+786
+at the 313th Move:
+315
+024
+786
+at the 314th Move:
+315
+204
+786
+at the 315th Move:
+315
+240
+786
+at the 316th Move:
+310
+245
+786
+at the 317th Move:
+301
+245
+786
+at the 318th Move:
+031
+245
+786
+at the 319th Move:
+231
+045
+786
+at the 320th Move:
+231
+405
+786
+at the 321th Move:
+201
+435
+786
+at the 322th Move:
+210
+435
+786
+at the 323th Move:
+215
+430
+786
+at the 324th Move:
+215
+436
+780
+at the 325th Move:
+215
+436
+708
+at the 326th Move:
+215
+436
+078
+at the 327th Move:
+215
+036
+478
+at the 328th Move:
+215
+306
+478
+at the 329th Move:
+215
+360
+478
+at the 330th Move:
+210
+365
+478
+at the 331th Move:
+201
+365
+478
+at the 332th Move:
+021
+365
+478
+at the 333th Move:
+321
+065
+478
+at the 334th Move:
+321
+605
+478
+at the 335th Move:
+321
+650
+478
+at the 336th Move:
+320
+651
+478
+at the 337th Move:
+302
+651
+478
+at the 338th Move:
+032
+651
+478
+at the 339th Move:
+632
+051
+478
+at the 340th Move:
+632
+501
+478
+at the 341th Move:
+632
+510
+478
+at the 342th Move:
+630
+512
+478
+at the 343th Move:
+603
+512
+478
+at the 344th Move:
+063
+512
+478
+at the 345th Move:
+563
+012
+478
+at the 346th Move:
+563
+102
+478
+at the 347th Move:
+563
+120
+478
+at the 348th Move:
+560
+123
+478
+at the 349th Move:
+506
+123
+478
+at the 350th Move:
+056
+123
+478
+at the 351th Move:
+156
+023
+478
+at the 352th Move:
+156
+203
+478
+at the 353th Move:
+156
+230
+478
+at the 354th Move:
+150
+236
+478
+at the 355th Move:
+105
+236
+478
+at the 356th Move:
+135
+206
+478
+at the 357th Move:
+135
+260
+478
+at the 358th Move:
+130
+265
+478
+at the 359th Move:
+103
+265
+478
+at the 360th Move:
+013
+265
+478
+at the 361th Move:
+213
+065
+478
+at the 362th Move:
+213
+465
+078
+at the 363th Move:
+213
+465
+708
+at the 364th Move:
+213
+465
+780
+at the 365th Move:
+213
+460
+785
+at the 366th Move:
+213
+406
+785
+at the 367th Move:
+213
+046
+785
+at the 368th Move:
+013
+246
+785
+at the 369th Move:
+103
+246
+785
+at the 370th Move:
+130
+246
+785
+at the 371th Move:
+136
+240
+785
+at the 372th Move:
+136
+204
+785
+at the 373th Move:
+136
+024
+785
+at the 374th Move:
+036
+124
+785
+at the 375th Move:
+306
+124
+785
+at the 376th Move:
+360
+124
+785
+at the 377th Move:
+364
+120
+785
+at the 378th Move:
+364
+102
+785
+at the 379th Move:
+364
+012
+785
+at the 380th Move:
+064
+312
+785
+at the 381th Move:
+604
+312
+785
+at the 382th Move:
+640
+312
+785
+at the 383th Move:
+642
+310
+785
+at the 384th Move:
+642
+301
+785
+at the 385th Move:
+642
+031
+785
+at the 386th Move:
+042
+631
+785
+at the 387th Move:
+402
+631
+785
+at the 388th Move:
+420
+631
+785
+at the 389th Move:
+421
+630
+785
+at the 390th Move:
+421
+603
+785
+at the 391th Move:
+421
+063
+785
+at the 392th Move:
+021
+463
+785
+at the 393th Move:
+201
+463
+785
+at the 394th Move:
+261
+403
+785
+at the 395th Move:
+261
+430
+785
+at the 396th Move:
+260
+431
+785
+at the 397th Move:
+206
+431
+785
+at the 398th Move:
+026
+431
+785
+at the 399th Move:
+426
+031
+785
+at the 400th Move:
+426
+301
+785
+at the 401th Move:
+426
+310
+785
+at the 402th Move:
+420
+316
+785
+at the 403th Move:
+402
+316
+785
+at the 404th Move:
+042
+316
+785
+at the 405th Move:
+342
+016
+785
+at the 406th Move:
+342
+106
+785
+at the 407th Move:
+342
+160
+785
+at the 408th Move:
+342
+165
+780
+at the 409th Move:
+342
+165
+708
+at the 410th Move:
+342
+165
+078
+at the 411th Move:
+342
+065
+178
+at the 412th Move:
+342
+605
+178
+at the 413th Move:
+342
+650
+178
+at the 414th Move:
+340
+652
+178
+at the 415th Move:
+304
+652
+178
+at the 416th Move:
+034
+652
+178
+at the 417th Move:
+634
+052
+178
+at the 418th Move:
+634
+502
+178
+at the 419th Move:
+634
+520
+178
+at the 420th Move:
+630
+524
+178
+at the 421th Move:
+603
+524
+178
+at the 422th Move:
+063
+524
+178
+at the 423th Move:
+563
+024
+178
+at the 424th Move:
+563
+204
+178
+at the 425th Move:
+563
+240
+178
+at the 426th Move:
+560
+243
+178
+at the 427th Move:
+506
+243
+178
+at the 428th Move:
+056
+243
+178
+at the 429th Move:
+256
+043
+178
+at the 430th Move:
+256
+403
+178
+at the 431th Move:
+256
+430
+178
+at the 432th Move:
+250
+436
+178
+at the 433th Move:
+205
+436
+178
+at the 434th Move:
+025
+436
+178
+at the 435th Move:
+425
+036
+178
+at the 436th Move:
+425
+306
+178
+at the 437th Move:
+425
+360
+178
+at the 438th Move:
+420
+365
+178
+at the 439th Move:
+402
+365
+178
+at the 440th Move:
+462
+305
+178
+at the 441th Move:
+462
+350
+178
+at the 442th Move:
+460
+352
+178
+at the 443th Move:
+406
+352
+178
+at the 444th Move:
+046
+352
+178
+at the 445th Move:
+346
+052
+178
+at the 446th Move:
+346
+502
+178
+at the 447th Move:
+346
+520
+178
+at the 448th Move:
+340
+526
+178
+at the 449th Move:
+304
+526
+178
+at the 450th Move:
+034
+526
+178
+at the 451th Move:
+534
+026
+178
+at the 452th Move:
+534
+206
+178
+at the 453th Move:
+534
+260
+178
+at the 454th Move:
+534
+268
+170
+at the 455th Move:
+534
+268
+107
+at the 456th Move:
+534
+268
+017
+at the 457th Move:
+534
+068
+217
+at the 458th Move:
+534
+608
+217
+at the 459th Move:
+534
+680
+217
+at the 460th Move:
+530
+684
+217
+at the 461th Move:
+503
+684
+217
+at the 462th Move:
+053
+684
+217
+at the 463th Move:
+653
+084
+217
+at the 464th Move:
+653
+804
+217
+at the 465th Move:
+653
+840
+217
+at the 466th Move:
+650
+843
+217
+at the 467th Move:
+605
+843
+217
+at the 468th Move:
+065
+843
+217
+at the 469th Move:
+865
+043
+217
+at the 470th Move:
+865
+403
+217
+at the 471th Move:
+865
+430
+217
+at the 472th Move:
+860
+435
+217
+at the 473th Move:
+806
+435
+217
+at the 474th Move:
+086
+435
+217
+at the 475th Move:
+486
+035
+217
+at the 476th Move:
+486
+305
+217
+at the 477th Move:
+486
+350
+217
+at the 478th Move:
+480
+356
+217
+at the 479th Move:
+408
+356
+217
+at the 480th Move:
+048
+356
+217
+at the 481th Move:
+348
+056
+217
+at the 482th Move:
+348
+506
+217
+at the 483th Move:
+348
+560
+217
+at the 484th Move:
+340
+568
+217
+at the 485th Move:
+304
+568
+217
+at the 486th Move:
+364
+508
+217
+at the 487th Move:
+364
+580
+217
+at the 488th Move:
+360
+584
+217
+at the 489th Move:
+306
+584
+217
+at the 490th Move:
+036
+584
+217
+at the 491th Move:
+536
+084
+217
+at the 492th Move:
+536
+804
+217
+at the 493th Move:
+536
+840
+217
+at the 494th Move:
+530
+846
+217
+at the 495th Move:
+503
+846
+217
+at the 496th Move:
+053
+846
+217
+at the 497th Move:
+853
+046
+217
+at the 498th Move:
+853
+406
+217
+at the 499th Move:
+853
+460
+217
+at the 500th Move:
+853
+467
+210
+at the 501th Move:
+853
+467
+201
+at the 502th Move:
+853
+467
+021
+at the 503th Move:
+853
+067
+421
+at the 504th Move:
+853
+607
+421
+at the 505th Move:
+853
+670
+421
+at the 506th Move:
+850
+673
+421
+at the 507th Move:
+805
+673
+421
+at the 508th Move:
+085
+673
+421
+at the 509th Move:
+685
+073
+421
+at the 510th Move:
+685
+703
+421
+at the 511th Move:
+685
+730
+421
+at the 512th Move:
+680
+735
+421
+at the 513th Move:
+608
+735
+421
+at the 514th Move:
+068
+735
+421
+at the 515th Move:
+768
+035
+421
+at the 516th Move:
+768
+305
+421
+at the 517th Move:
+768
+350
+421
+at the 518th Move:
+760
+358
+421
+at the 519th Move:
+706
+358
+421
+at the 520th Move:
+076
+358
+421
+at the 521th Move:
+376
+058
+421
+at the 522th Move:
+376
+508
+421
+at the 523th Move:
+376
+580
+421
+at the 524th Move:
+370
+586
+421
+at the 525th Move:
+307
+586
+421
+at the 526th Move:
+037
+586
+421
+at the 527th Move:
+537
+086
+421
+at the 528th Move:
+537
+806
+421
+at the 529th Move:
+537
+860
+421
+at the 530th Move:
+530
+867
+421
+at the 531th Move:
+503
+867
+421
+at the 532th Move:
+563
+807
+421
+at the 533th Move:
+563
+870
+421
+at the 534th Move:
+560
+873
+421
+at the 535th Move:
+506
+873
+421
+at the 536th Move:
+056
+873
+421
+at the 537th Move:
+856
+073
+421
+at the 538th Move:
+856
+703
+421
+at the 539th Move:
+856
+730
+421
+at the 540th Move:
+850
+736
+421
+at the 541th Move:
+805
+736
+421
+at the 542th Move:
+085
+736
+421
+at the 543th Move:
+785
+036
+421
+at the 544th Move:
+785
+306
+421
+at the 545th Move:
+785
+360
+421
+at the 546th Move:
+785
+361
+420
+at the 547th Move:
+785
+361
+402
+at the 548th Move:
+785
+361
+042
+at the 549th Move:
+785
+061
+342
+at the 550th Move:
+785
+601
+342
+at the 551th Move:
+785
+610
+342
+at the 552th Move:
+780
+615
+342
+at the 553th Move:
+708
+615
+342
+at the 554th Move:
+078
+615
+342
+at the 555th Move:
+678
+015
+342
+at the 556th Move:
+678
+105
+342
+at the 557th Move:
+678
+150
+342
+at the 558th Move:
+670
+158
+342
+at the 559th Move:
+607
+158
+342
+at the 560th Move:
+067
+158
+342
+at the 561th Move:
+167
+058
+342
+at the 562th Move:
+167
+508
+342
+at the 563th Move:
+167
+580
+342
+at the 564th Move:
+160
+587
+342
+at the 565th Move:
+106
+587
+342
+at the 566th Move:
+016
+587
+342
+at the 567th Move:
+516
+087
+342
+at the 568th Move:
+516
+807
+342
+at the 569th Move:
+516
+870
+342
+at the 570th Move:
+510
+876
+342
+at the 571th Move:
+501
+876
+342
+at the 572th Move:
+051
+876
+342
+at the 573th Move:
+851
+076
+342
+at the 574th Move:
+851
+706
+342
+at the 575th Move:
+851
+760
+342
+at the 576th Move:
+850
+761
+342
+at the 577th Move:
+805
+761
+342
+at the 578th Move:
+865
+701
+342
+at the 579th Move:
+865
+710
+342
+at the 580th Move:
+860
+715
+342
+at the 581th Move:
+806
+715
+342
+at the 582th Move:
+086
+715
+342
+at the 583th Move:
+786
+015
+342
+at the 584th Move:
+786
+105
+342
+at the 585th Move:
+786
+150
+342
+at the 586th Move:
+780
+156
+342
+at the 587th Move:
+708
+156
+342
+at the 588th Move:
+078
+156
+342
+at the 589th Move:
+178
+056
+342
+at the 590th Move:
+178
+506
+342
+at the 591th Move:
+178
+560
+342
+at the 592th Move:
+178
+562
+340
+at the 593th Move:
+178
+562
+304
+at the 594th Move:
+178
+562
+034
+at the 595th Move:
+178
+062
+534
+at the 596th Move:
+178
+602
+534
+at the 597th Move:
+178
+620
+534
+at the 598th Move:
+170
+628
+534
+at the 599th Move:
+107
+628
+534
+at the 600th Move:
+017
+628
+534
+at the 601th Move:
+617
+028
+534
+at the 602th Move:
+617
+208
+534
+at the 603th Move:
+617
+280
+534
+at the 604th Move:
+610
+287
+534
+at the 605th Move:
+601
+287
+534
+at the 606th Move:
+061
+287
+534
+at the 607th Move:
+261
+087
+534
+at the 608th Move:
+261
+807
+534
+at the 609th Move:
+261
+870
+534
+at the 610th Move:
+260
+871
+534
+at the 611th Move:
+206
+871
+534
+at the 612th Move:
+026
+871
+534
+at the 613th Move:
+826
+071
+534
+at the 614th Move:
+826
+701
+534
+at the 615th Move:
+826
+710
+534
+at the 616th Move:
+820
+716
+534
+at the 617th Move:
+802
+716
+534
+at the 618th Move:
+082
+716
+534
+at the 619th Move:
+782
+016
+534
+at the 620th Move:
+782
+106
+534
+at the 621th Move:
+782
+160
+534
+at the 622th Move:
+780
+162
+534
+at the 623th Move:
+708
+162
+534
+at the 624th Move:
+768
+102
+534
+at the 625th Move:
+768
+120
+534
+at the 626th Move:
+760
+128
+534
+at the 627th Move:
+706
+128
+534
+at the 628th Move:
+076
+128
+534
+at the 629th Move:
+176
+028
+534
+at the 630th Move:
+176
+208
+534
+at the 631th Move:
+176
+280
+534
+at the 632th Move:
+170
+286
+534
+at the 633th Move:
+107
+286
+534
+at the 634th Move:
+017
+286
+534
+at the 635th Move:
+217
+086
+534
+at the 636th Move:
+217
+806
+534
+at the 637th Move:
+217
+860
+534
+at the 638th Move:
+217
+864
+530
+at the 639th Move:
+217
+864
+503
+at the 640th Move:
+217
+864
+053
+at the 641th Move:
+217
+064
+853
+at the 642th Move:
+217
+604
+853
+at the 643th Move:
+217
+640
+853
+at the 644th Move:
+210
+647
+853
+at the 645th Move:
+201
+647
+853
+at the 646th Move:
+021
+647
+853
+at the 647th Move:
+621
+047
+853
+at the 648th Move:
+621
+407
+853
+at the 649th Move:
+621
+470
+853
+at the 650th Move:
+620
+471
+853
+at the 651th Move:
+602
+471
+853
+at the 652th Move:
+062
+471
+853
+at the 653th Move:
+462
+071
+853
+at the 654th Move:
+462
+701
+853
+at the 655th Move:
+462
+710
+853
+at the 656th Move:
+460
+712
+853
+at the 657th Move:
+406
+712
+853
+at the 658th Move:
+046
+712
+853
+at the 659th Move:
+746
+012
+853
+at the 660th Move:
+746
+102
+853
+at the 661th Move:
+746
+120
+853
+at the 662th Move:
+740
+126
+853
+at the 663th Move:
+704
+126
+853
+at the 664th Move:
+074
+126
+853
+at the 665th Move:
+174
+026
+853
+at the 666th Move:
+174
+206
+853
+at the 667th Move:
+174
+260
+853
+at the 668th Move:
+170
+264
+853
+at the 669th Move:
+107
+264
+853
+at the 670th Move:
+167
+204
+853
+at the 671th Move:
+167
+240
+853
+at the 672th Move:
+160
+247
+853
+at the 673th Move:
+106
+247
+853
+at the 674th Move:
+016
+247
+853
+at the 675th Move:
+216
+047
+853
+at the 676th Move:
+216
+407
+853
+at the 677th Move:
+216
+470
+853
+at the 678th Move:
+210
+476
+853
+at the 679th Move:
+201
+476
+853
+at the 680th Move:
+021
+476
+853
+at the 681th Move:
+421
+076
+853
+at the 682th Move:
+421
+706
+853
+at the 683th Move:
+421
+760
+853
+at the 684th Move:
+421
+763
+850
+at the 685th Move:
+421
+763
+805
+at the 686th Move:
+421
+703
+865
+at the 687th Move:
+421
+730
+865
+at the 688th Move:
+420
+731
+865
+at the 689th Move:
+402
+731
+865
+at the 690th Move:
+042
+731
+865
+at the 691th Move:
+742
+031
+865
+at the 692th Move:
+742
+301
+865
+at the 693th Move:
+742
+310
+865
+at the 694th Move:
+740
+312
+865
+at the 695th Move:
+704
+312
+865
+at the 696th Move:
+074
+312
+865
+at the 697th Move:
+374
+012
+865
+at the 698th Move:
+374
+102
+865
+at the 699th Move:
+374
+120
+865
+at the 700th Move:
+370
+124
+865
+at the 701th Move:
+307
+124
+865
+at the 702th Move:
+037
+124
+865
+at the 703th Move:
+137
+024
+865
+at the 704th Move:
+137
+204
+865
+at the 705th Move:
+137
+240
+865
+at the 706th Move:
+130
+247
+865
+at the 707th Move:
+103
+247
+865
+at the 708th Move:
+013
+247
+865
+at the 709th Move:
+213
+047
+865
+at the 710th Move:
+213
+407
+865
+at the 711th Move:
+213
+470
+865
+at the 712th Move:
+210
+473
+865
+at the 713th Move:
+201
+473
+865
+at the 714th Move:
+271
+403
+865
+at the 715th Move:
+271
+430
+865
+at the 716th Move:
+270
+431
+865
+at the 717th Move:
+207
+431
+865
+at the 718th Move:
+027
+431
+865
+at the 719th Move:
+427
+031
+865
+at the 720th Move:
+427
+301
+865
+at the 721th Move:
+427
+310
+865
+at the 722th Move:
+420
+317
+865
+at the 723th Move:
+402
+317
+865
+at the 724th Move:
+042
+317
+865
+at the 725th Move:
+342
+017
+865
+at the 726th Move:
+342
+107
+865
+at the 727th Move:
+342
+170
+865
+at the 728th Move:
+342
+175
+860
+at the 729th Move:
+342
+175
+806
+at the 730th Move:
+342
+175
+086
+at the 731th Move:
+342
+075
+186
+at the 732th Move:
+342
+705
+186
+at the 733th Move:
+342
+750
+186
+at the 734th Move:
+340
+752
+186
+at the 735th Move:
+304
+752
+186
+at the 736th Move:
+034
+752
+186
+at the 737th Move:
+734
+052
+186
+at the 738th Move:
+734
+502
+186
+at the 739th Move:
+734
+520
+186
+at the 740th Move:
+730
+524
+186
+at the 741th Move:
+703
+524
+186
+at the 742th Move:
+073
+524
+186
+at the 743th Move:
+573
+024
+186
+at the 744th Move:
+573
+204
+186
+at the 745th Move:
+573
+240
+186
+at the 746th Move:
+570
+243
+186
+at the 747th Move:
+507
+243
+186
+at the 748th Move:
+057
+243
+186
+at the 749th Move:
+257
+043
+186
+at the 750th Move:
+257
+403
+186
+at the 751th Move:
+257
+430
+186
+at the 752th Move:
+250
+437
+186
+at the 753th Move:
+205
+437
+186
+at the 754th Move:
+025
+437
+186
+at the 755th Move:
+425
+037
+186
+at the 756th Move:
+425
+307
+186
+at the 757th Move:
+425
+370
+186
+at the 758th Move:
+420
+375
+186
+at the 759th Move:
+402
+375
+186
+at the 760th Move:
+472
+305
+186
+at the 761th Move:
+472
+350
+186
+at the 762th Move:
+470
+352
+186
+at the 763th Move:
+407
+352
+186
+at the 764th Move:
+047
+352
+186
+at the 765th Move:
+347
+052
+186
+at the 766th Move:
+347
+502
+186
+at the 767th Move:
+347
+520
+186
+at the 768th Move:
+340
+527
+186
+at the 769th Move:
+304
+527
+186
+at the 770th Move:
+034
+527
+186
+at the 771th Move:
+534
+027
+186
+at the 772th Move:
+534
+207
+186
+at the 773th Move:
+504
+237
+186
+at the 774th Move:
+540
+237
+186
+at the 775th Move:
+547
+230
+186
+at the 776th Move:
+547
+236
+180
+at the 777th Move:
+547
+236
+108
+at the 778th Move:
+547
+236
+018
+at the 779th Move:
+547
+036
+218
+at the 780th Move:
+547
+306
+218
+at the 781th Move:
+547
+360
+218
+at the 782th Move:
+540
+367
+218
+at the 783th Move:
+504
+367
+218
+at the 784th Move:
+054
+367
+218
+at the 785th Move:
+354
+067
+218
+at the 786th Move:
+354
+607
+218
+at the 787th Move:
+354
+670
+218
+at the 788th Move:
+350
+674
+218
+at the 789th Move:
+305
+674
+218
+at the 790th Move:
+035
+674
+218
+at the 791th Move:
+635
+074
+218
+at the 792th Move:
+635
+704
+218
+at the 793th Move:
+635
+740
+218
+at the 794th Move:
+630
+745
+218
+at the 795th Move:
+603
+745
+218
+at the 796th Move:
+063
+745
+218
+at the 797th Move:
+763
+045
+218
+at the 798th Move:
+763
+405
+218
+at the 799th Move:
+763
+450
+218
+at the 800th Move:
+760
+453
+218
+at the 801th Move:
+706
+453
+218
+at the 802th Move:
+076
+453
+218
+at the 803th Move:
+476
+053
+218
+at the 804th Move:
+476
+503
+218
+at the 805th Move:
+476
+530
+218
+at the 806th Move:
+470
+536
+218
+at the 807th Move:
+407
+536
+218
+at the 808th Move:
+437
+506
+218
+at the 809th Move:
+437
+560
+218
+at the 810th Move:
+430
+567
+218
+at the 811th Move:
+403
+567
+218
+at the 812th Move:
+043
+567
+218
+at the 813th Move:
+543
+067
+218
+at the 814th Move:
+543
+607
+218
+at the 815th Move:
+543
+670
+218
+at the 816th Move:
+540
+673
+218
+at the 817th Move:
+504
+673
+218
+at the 818th Move:
+054
+673
+218
+at the 819th Move:
+654
+073
+218
+at the 820th Move:
+654
+703
+218
+at the 821th Move:
+654
+730
+218
+at the 822th Move:
+654
+738
+210
+at the 823th Move:
+654
+738
+201
+at the 824th Move:
+654
+738
+021
+at the 825th Move:
+654
+038
+721
+at the 826th Move:
+654
+308
+721
+at the 827th Move:
+654
+380
+721
+at the 828th Move:
+650
+384
+721
+at the 829th Move:
+605
+384
+721
+at the 830th Move:
+065
+384
+721
+at the 831th Move:
+365
+084
+721
+at the 832th Move:
+365
+804
+721
+at the 833th Move:
+365
+840
+721
+at the 834th Move:
+360
+845
+721
+at the 835th Move:
+306
+845
+721
+at the 836th Move:
+036
+845
+721
+at the 837th Move:
+836
+045
+721
+at the 838th Move:
+836
+405
+721
+at the 839th Move:
+836
+450
+721
+at the 840th Move:
+830
+456
+721
+at the 841th Move:
+803
+456
+721
+at the 842th Move:
+083
+456
+721
+at the 843th Move:
+483
+056
+721
+at the 844th Move:
+483
+506
+721
+at the 845th Move:
+483
+560
+721
+at the 846th Move:
+480
+563
+721
+at the 847th Move:
+408
+563
+721
+at the 848th Move:
+048
+563
+721
+at the 849th Move:
+548
+063
+721
+at the 850th Move:
+548
+603
+721
+at the 851th Move:
+548
+630
+721
+at the 852th Move:
+540
+638
+721
+at the 853th Move:
+504
+638
+721
+at the 854th Move:
+534
+608
+721
+at the 855th Move:
+534
+680
+721
+at the 856th Move:
+530
+684
+721
+at the 857th Move:
+503
+684
+721
+at the 858th Move:
+053
+684
+721
+at the 859th Move:
+653
+084
+721
+at the 860th Move:
+653
+804
+721
+at the 861th Move:
+653
+840
+721
+at the 862th Move:
+650
+843
+721
+at the 863th Move:
+605
+843
+721
+at the 864th Move:
+065
+843
+721
+at the 865th Move:
+865
+043
+721
+at the 866th Move:
+865
+403
+721
+at the 867th Move:
+865
+430
+721
+at the 868th Move:
+865
+431
+720
+at the 869th Move:
+865
+431
+702
+at the 870th Move:
+865
+431
+072
+at the 871th Move:
+865
+031
+472
+at the 872th Move:
+865
+301
+472
+at the 873th Move:
+865
+310
+472
+at the 874th Move:
+860
+315
+472
+at the 875th Move:
+806
+315
+472
+at the 876th Move:
+086
+315
+472
+at the 877th Move:
+386
+015
+472
+at the 878th Move:
+386
+105
+472
+at the 879th Move:
+386
+150
+472
+at the 880th Move:
+380
+156
+472
+at the 881th Move:
+308
+156
+472
+at the 882th Move:
+038
+156
+472
+at the 883th Move:
+138
+056
+472
+at the 884th Move:
+138
+506
+472
+at the 885th Move:
+138
+560
+472
+at the 886th Move:
+130
+568
+472
+at the 887th Move:
+103
+568
+472
+at the 888th Move:
+013
+568
+472
+at the 889th Move:
+513
+068
+472
+at the 890th Move:
+513
+608
+472
+at the 891th Move:
+513
+680
+472
+at the 892th Move:
+510
+683
+472
+at the 893th Move:
+501
+683
+472
+at the 894th Move:
+051
+683
+472
+at the 895th Move:
+651
+083
+472
+at the 896th Move:
+651
+803
+472
+at the 897th Move:
+651
+830
+472
+at the 898th Move:
+650
+831
+472
+at the 899th Move:
+605
+831
+472
+at the 900th Move:
+635
+801
+472
+at the 901th Move:
+635
+810
+472
+at the 902th Move:
+630
+815
+472
+at the 903th Move:
+603
+815
+472
+at the 904th Move:
+063
+815
+472
+at the 905th Move:
+863
+015
+472
+at the 906th Move:
+863
+105
+472
+at the 907th Move:
+863
+150
+472
+at the 908th Move:
+860
+153
+472
+at the 909th Move:
+806
+153
+472
+at the 910th Move:
+086
+153
+472
+at the 911th Move:
+186
+053
+472
+at the 912th Move:
+186
+503
+472
+at the 913th Move:
+186
+530
+472
+at the 914th Move:
+186
+532
+470
+at the 915th Move:
+186
+532
+407
+at the 916th Move:
+186
+532
+047
+at the 917th Move:
+186
+032
+547
+at the 918th Move:
+186
+302
+547
+at the 919th Move:
+186
+320
+547
+at the 920th Move:
+180
+326
+547
+at the 921th Move:
+108
+326
+547
+at the 922th Move:
+018
+326
+547
+at the 923th Move:
+318
+026
+547
+at the 924th Move:
+318
+206
+547
+at the 925th Move:
+318
+260
+547
+at the 926th Move:
+310
+268
+547
+at the 927th Move:
+301
+268
+547
+at the 928th Move:
+031
+268
+547
+at the 929th Move:
+231
+068
+547
+at the 930th Move:
+231
+608
+547
+at the 931th Move:
+231
+680
+547
+at the 932th Move:
+230
+681
+547
+at the 933th Move:
+203
+681
+547
+at the 934th Move:
+023
+681
+547
+at the 935th Move:
+623
+081
+547
+at the 936th Move:
+623
+801
+547
+at the 937th Move:
+623
+810
+547
+at the 938th Move:
+620
+813
+547
+at the 939th Move:
+602
+813
+547
+at the 940th Move:
+062
+813
+547
+at the 941th Move:
+862
+013
+547
+at the 942th Move:
+862
+103
+547
+at the 943th Move:
+862
+130
+547
+at the 944th Move:
+860
+132
+547
+at the 945th Move:
+806
+132
+547
+at the 946th Move:
+836
+102
+547
+at the 947th Move:
+836
+120
+547
+at the 948th Move:
+830
+126
+547
+at the 949th Move:
+803
+126
+547
+at the 950th Move:
+083
+126
+547
+at the 951th Move:
+183
+026
+547
+at the 952th Move:
+183
+206
+547
+at the 953th Move:
+183
+260
+547
+at the 954th Move:
+180
+263
+547
+at the 955th Move:
+108
+263
+547
+at the 956th Move:
+018
+263
+547
+at the 957th Move:
+218
+063
+547
+at the 958th Move:
+218
+603
+547
+at the 959th Move:
+218
+630
+547
+at the 960th Move:
+218
+637
+540
+at the 961th Move:
+218
+637
+504
+at the 962th Move:
+218
+637
+054
+at the 963th Move:
+218
+037
+654
+at the 964th Move:
+218
+307
+654
+at the 965th Move:
+218
+370
+654
+at the 966th Move:
+210
+378
+654
+at the 967th Move:
+201
+378
+654
+at the 968th Move:
+021
+378
+654
+at the 969th Move:
+321
+078
+654
+at the 970th Move:
+321
+708
+654
+at the 971th Move:
+321
+780
+654
+at the 972th Move:
+320
+781
+654
+at the 973th Move:
+302
+781
+654
+at the 974th Move:
+032
+781
+654
+at the 975th Move:
+732
+081
+654
+at the 976th Move:
+732
+801
+654
+at the 977th Move:
+732
+810
+654
+at the 978th Move:
+730
+812
+654
+at the 979th Move:
+703
+812
+654
+at the 980th Move:
+073
+812
+654
+at the 981th Move:
+873
+012
+654
+at the 982th Move:
+873
+102
+654
+at the 983th Move:
+873
+120
+654
+at the 984th Move:
+870
+123
+654
+at the 985th Move:
+807
+123
+654
+at the 986th Move:
+087
+123
+654
+at the 987th Move:
+187
+023
+654
+at the 988th Move:
+187
+203
+654
+at the 989th Move:
+187
+230
+654
+at the 990th Move:
+180
+237
+654
+at the 991th Move:
+108
+237
+654
+at the 992th Move:
+138
+207
+654
+at the 993th Move:
+138
+270
+654
+at the 994th Move:
+130
+278
+654
+at the 995th Move:
+103
+278
+654
+at the 996th Move:
+013
+278
+654
+at the 997th Move:
+213
+078
+654
+at the 998th Move:
+213
+708
+654
+at the 999th Move:
+213
+780
+654
+at the 1000th Move:
+210
+783
+654
+at the 1001th Move:
+201
+783
+654
+at the 1002th Move:
+021
+783
+654
+at the 1003th Move:
+721
+083
+654
+at the 1004th Move:
+721
+803
+654
+at the 1005th Move:
+721
+830
+654
+at the 1006th Move:
+721
+834
+650
+at the 1007th Move:
+721
+834
+605
+at the 1008th Move:
+721
+834
+065
+at the 1009th Move:
+721
+034
+865
+at the 1010th Move:
+721
+304
+865
+at the 1011th Move:
+721
+340
+865
+at the 1012th Move:
+721
+345
+860
+at the 1013th Move:
+721
+345
+806
+at the 1014th Move:
+721
+345
+086
+at the 1015th Move:
+721
+045
+386
+at the 1016th Move:
+721
+405
+386
+at the 1017th Move:
+721
+450
+386
+at the 1018th Move:
+720
+451
+386
+at the 1019th Move:
+702
+451
+386
+at the 1020th Move:
+072
+451
+386
+at the 1021th Move:
+472
+051
+386
+at the 1022th Move:
+472
+501
+386
+at the 1023th Move:
+472
+510
+386
+at the 1024th Move:
+470
+512
+386
+at the 1025th Move:
+407
+512
+386
+at the 1026th Move:
+047
+512
+386
+at the 1027th Move:
+547
+012
+386
+at the 1028th Move:
+547
+102
+386
+at the 1029th Move:
+547
+120
+386
+at the 1030th Move:
+540
+127
+386
+at the 1031th Move:
+504
+127
+386
+at the 1032th Move:
+054
+127
+386
+at the 1033th Move:
+154
+027
+386
+at the 1034th Move:
+154
+207
+386
+at the 1035th Move:
+154
+270
+386
+at the 1036th Move:
+150
+274
+386
+at the 1037th Move:
+105
+274
+386
+at the 1038th Move:
+015
+274
+386
+at the 1039th Move:
+215
+074
+386
+at the 1040th Move:
+215
+704
+386
+at the 1041th Move:
+215
+740
+386
+at the 1042th Move:
+210
+745
+386
+at the 1043th Move:
+201
+745
+386
+at the 1044th Move:
+241
+705
+386
+at the 1045th Move:
+241
+750
+386
+at the 1046th Move:
+240
+751
+386
+at the 1047th Move:
+204
+751
+386
+at the 1048th Move:
+024
+751
+386
+at the 1049th Move:
+724
+051
+386
+at the 1050th Move:
+724
+501
+386
+at the 1051th Move:
+724
+510
+386
+at the 1052th Move:
+720
+514
+386
+at the 1053th Move:
+702
+514
+386
+at the 1054th Move:
+072
+514
+386
+at the 1055th Move:
+572
+014
+386
+at the 1056th Move:
+572
+104
+386
+at the 1057th Move:
+572
+140
+386
+at the 1058th Move:
+572
+146
+380
+at the 1059th Move:
+572
+146
+308
+at the 1060th Move:
+572
+146
+038
+at the 1061th Move:
+572
+046
+138
+at the 1062th Move:
+572
+406
+138
+at the 1063th Move:
+572
+460
+138
+at the 1064th Move:
+570
+462
+138
+at the 1065th Move:
+507
+462
+138
+at the 1066th Move:
+057
+462
+138
+at the 1067th Move:
+457
+062
+138
+at the 1068th Move:
+457
+602
+138
+at the 1069th Move:
+457
+620
+138
+at the 1070th Move:
+450
+627
+138
+at the 1071th Move:
+405
+627
+138
+at the 1072th Move:
+045
+627
+138
+at the 1073th Move:
+645
+027
+138
+at the 1074th Move:
+645
+207
+138
+at the 1075th Move:
+645
+270
+138
+at the 1076th Move:
+640
+275
+138
+at the 1077th Move:
+604
+275
+138
+at the 1078th Move:
+064
+275
+138
+at the 1079th Move:
+264
+075
+138
+at the 1080th Move:
+264
+705
+138
+at the 1081th Move:
+264
+750
+138
+at the 1082th Move:
+260
+754
+138
+at the 1083th Move:
+206
+754
+138
+at the 1084th Move:
+026
+754
+138
+at the 1085th Move:
+726
+054
+138
+at the 1086th Move:
+726
+504
+138
+at the 1087th Move:
+726
+540
+138
+at the 1088th Move:
+720
+546
+138
+at the 1089th Move:
+702
+546
+138
+at the 1090th Move:
+742
+506
+138
+at the 1091th Move:
+742
+560
+138
+at the 1092th Move:
+740
+562
+138
+at the 1093th Move:
+704
+562
+138
+at the 1094th Move:
+074
+562
+138
+at the 1095th Move:
+574
+062
+138
+at the 1096th Move:
+574
+602
+138
+at the 1097th Move:
+574
+620
+138
+at the 1098th Move:
+570
+624
+138
+at the 1099th Move:
+507
+624
+138
+at the 1100th Move:
+057
+624
+138
+at the 1101th Move:
+657
+024
+138
+at the 1102th Move:
+657
+204
+138
+at the 1103th Move:
+657
+240
+138
+at the 1104th Move:
+657
+248
+130
+at the 1105th Move:
+657
+248
+103
+at the 1106th Move:
+657
+248
+013
+at the 1107th Move:
+657
+048
+213
+at the 1108th Move:
+657
+408
+213
+at the 1109th Move:
+657
+480
+213
+at the 1110th Move:
+650
+487
+213
+at the 1111th Move:
+605
+487
+213
+at the 1112th Move:
+065
+487
+213
+at the 1113th Move:
+465
+087
+213
+at the 1114th Move:
+465
+807
+213
+at the 1115th Move:
+465
+870
+213
+at the 1116th Move:
+460
+875
+213
+at the 1117th Move:
+406
+875
+213
+at the 1118th Move:
+046
+875
+213
+at the 1119th Move:
+846
+075
+213
+at the 1120th Move:
+846
+705
+213
+at the 1121th Move:
+846
+750
+213
+at the 1122th Move:
+840
+756
+213
+at the 1123th Move:
+804
+756
+213
+at the 1124th Move:
+084
+756
+213
+at the 1125th Move:
+784
+056
+213
+at the 1126th Move:
+784
+506
+213
+at the 1127th Move:
+784
+560
+213
+at the 1128th Move:
+780
+564
+213
+at the 1129th Move:
+708
+564
+213
+at the 1130th Move:
+078
+564
+213
+at the 1131th Move:
+578
+064
+213
+at the 1132th Move:
+578
+604
+213
+at the 1133th Move:
+578
+640
+213
+at the 1134th Move:
+570
+648
+213
+at the 1135th Move:
+507
+648
+213
+at the 1136th Move:
+547
+608
+213
+at the 1137th Move:
+547
+680
+213
+at the 1138th Move:
+540
+687
+213
+at the 1139th Move:
+504
+687
+213
+at the 1140th Move:
+054
+687
+213
+at the 1141th Move:
+654
+087
+213
+at the 1142th Move:
+654
+807
+213
+at the 1143th Move:
+654
+870
+213
+at the 1144th Move:
+650
+874
+213
+at the 1145th Move:
+605
+874
+213
+at the 1146th Move:
+065
+874
+213
+at the 1147th Move:
+865
+074
+213
+at the 1148th Move:
+865
+704
+213
+at the 1149th Move:
+865
+740
+213
+at the 1150th Move:
+865
+743
+210
+at the 1151th Move:
+865
+743
+201
+at the 1152th Move:
+865
+703
+241
+at the 1153th Move:
+865
+730
+241
+at the 1154th Move:
+860
+735
+241
+at the 1155th Move:
+806
+735
+241
+at the 1156th Move:
+086
+735
+241
+at the 1157th Move:
+786
+035
+241
+at the 1158th Move:
+786
+305
+241
+at the 1159th Move:
+786
+350
+241
+at the 1160th Move:
+780
+356
+241
+at the 1161th Move:
+708
+356
+241
+at the 1162th Move:
+078
+356
+241
+at the 1163th Move:
+378
+056
+241
+at the 1164th Move:
+378
+506
+241
+at the 1165th Move:
+378
+560
+241
+at the 1166th Move:
+370
+568
+241
+at the 1167th Move:
+307
+568
+241
+at the 1168th Move:
+037
+568
+241
+at the 1169th Move:
+537
+068
+241
+at the 1170th Move:
+537
+608
+241
+at the 1171th Move:
+537
+680
+241
+at the 1172th Move:
+530
+687
+241
+at the 1173th Move:
+503
+687
+241
+at the 1174th Move:
+053
+687
+241
+at the 1175th Move:
+653
+087
+241
+at the 1176th Move:
+653
+807
+241
+at the 1177th Move:
+653
+870
+241
+at the 1178th Move:
+650
+873
+241
+at the 1179th Move:
+605
+873
+241
+at the 1180th Move:
+675
+803
+241
+at the 1181th Move:
+675
+830
+241
+at the 1182th Move:
+670
+835
+241
+at the 1183th Move:
+607
+835
+241
+at the 1184th Move:
+067
+835
+241
+at the 1185th Move:
+867
+035
+241
+at the 1186th Move:
+867
+305
+241
+at the 1187th Move:
+867
+350
+241
+at the 1188th Move:
+860
+357
+241
+at the 1189th Move:
+806
+357
+241
+at the 1190th Move:
+086
+357
+241
+at the 1191th Move:
+386
+057
+241
+at the 1192th Move:
+386
+507
+241
+at the 1193th Move:
+386
+570
+241
+at the 1194th Move:
+386
+571
+240
+at the 1195th Move:
+386
+571
+204
+at the 1196th Move:
+386
+571
+024
+at the 1197th Move:
+386
+071
+524
+at the 1198th Move:
+386
+701
+524
+at the 1199th Move:
+386
+710
+524
+at the 1200th Move:
+380
+716
+524
+at the 1201th Move:
+308
+716
+524
+at the 1202th Move:
+038
+716
+524
+at the 1203th Move:
+738
+016
+524
+at the 1204th Move:
+738
+106
+524
+at the 1205th Move:
+738
+160
+524
+at the 1206th Move:
+730
+168
+524
+at the 1207th Move:
+703
+168
+524
+at the 1208th Move:
+073
+168
+524
+at the 1209th Move:
+173
+068
+524
+at the 1210th Move:
+173
+608
+524
+at the 1211th Move:
+173
+680
+524
+at the 1212th Move:
+170
+683
+524
+at the 1213th Move:
+107
+683
+524
+at the 1214th Move:
+017
+683
+524
+at the 1215th Move:
+617
+083
+524
+at the 1216th Move:
+617
+803
+524
+at the 1217th Move:
+617
+830
+524
+at the 1218th Move:
+610
+837
+524
+at the 1219th Move:
+601
+837
+524
+at the 1220th Move:
+061
+837
+524
+at the 1221th Move:
+861
+037
+524
+at the 1222th Move:
+861
+307
+524
+at the 1223th Move:
+861
+370
+524
+at the 1224th Move:
+860
+371
+524
+at the 1225th Move:
+806
+371
+524
+at the 1226th Move:
+876
+301
+524
+at the 1227th Move:
+876
+310
+524
+at the 1228th Move:
+870
+316
+524
+at the 1229th Move:
+807
+316
+524
+at the 1230th Move:
+087
+316
+524
+at the 1231th Move:
+387
+016
+524
+at the 1232th Move:
+387
+106
+524
+at the 1233th Move:
+387
+160
+524
+at the 1234th Move:
+380
+167
+524
+at the 1235th Move:
+308
+167
+524
+at the 1236th Move:
+038
+167
+524
+at the 1237th Move:
+138
+067
+524
+at the 1238th Move:
+138
+607
+524
+at the 1239th Move:
+138
+670
+524
+at the 1240th Move:
+138
+674
+520
+at the 1241th Move:
+138
+674
+502
+at the 1242th Move:
+138
+674
+052
+at the 1243th Move:
+138
+074
+652
+at the 1244th Move:
+138
+704
+652
+at the 1245th Move:
+138
+740
+652
+at the 1246th Move:
+130
+748
+652
+at the 1247th Move:
+103
+748
+652
+at the 1248th Move:
+013
+748
+652
+at the 1249th Move:
+713
+048
+652
+at the 1250th Move:
+713
+408
+652
+at the 1251th Move:
+713
+480
+652
+at the 1252th Move:
+710
+483
+652
+at the 1253th Move:
+701
+483
+652
+at the 1254th Move:
+071
+483
+652
+at the 1255th Move:
+471
+083
+652
+at the 1256th Move:
+471
+803
+652
+at the 1257th Move:
+471
+830
+652
+at the 1258th Move:
+470
+831
+652
+at the 1259th Move:
+407
+831
+652
+at the 1260th Move:
+047
+831
+652
+at the 1261th Move:
+847
+031
+652
+at the 1262th Move:
+847
+301
+652
+at the 1263th Move:
+847
+310
+652
+at the 1264th Move:
+840
+317
+652
+at the 1265th Move:
+804
+317
+652
+at the 1266th Move:
+084
+317
+652
+at the 1267th Move:
+384
+017
+652
+at the 1268th Move:
+384
+107
+652
+at the 1269th Move:
+384
+170
+652
+at the 1270th Move:
+380
+174
+652
+at the 1271th Move:
+308
+174
+652
+at the 1272th Move:
+378
+104
+652
+at the 1273th Move:
+378
+140
+652
+at the 1274th Move:
+370
+148
+652
+at the 1275th Move:
+307
+148
+652
+at the 1276th Move:
+037
+148
+652
+at the 1277th Move:
+137
+048
+652
+at the 1278th Move:
+137
+408
+652
+at the 1279th Move:
+137
+480
+652
+at the 1280th Move:
+130
+487
+652
+at the 1281th Move:
+103
+487
+652
+at the 1282th Move:
+013
+487
+652
+at the 1283th Move:
+413
+087
+652
+at the 1284th Move:
+413
+807
+652
+at the 1285th Move:
+413
+870
+652
+at the 1286th Move:
+413
+872
+650
+at the 1287th Move:
+413
+872
+605
+at the 1288th Move:
+413
+872
+065
+at the 1289th Move:
+413
+072
+865
+at the 1290th Move:
+413
+702
+865
+at the 1291th Move:
+413
+720
+865
+at the 1292th Move:
+413
+725
+860
+at the 1293th Move:
+413
+725
+806
+at the 1294th Move:
+413
+725
+086
+at the 1295th Move:
+413
+025
+786
+at the 1296th Move:
+413
+205
+786
+at the 1297th Move:
+413
+250
+786
+at the 1298th Move:
+410
+253
+786
+at the 1299th Move:
+401
+253
+786
+at the 1300th Move:
+041
+253
+786
+at the 1301th Move:
+241
+053
+786
+at the 1302th Move:
+241
+503
+786
+at the 1303th Move:
+241
+530
+786
+at the 1304th Move:
+240
+531
+786
+at the 1305th Move:
+204
+531
+786
+at the 1306th Move:
+024
+531
+786
+at the 1307th Move:
+524
+031
+786
+at the 1308th Move:
+524
+301
+786
+at the 1309th Move:
+524
+310
+786
+at the 1310th Move:
+520
+314
+786
+at the 1311th Move:
+502
+314
+786
+at the 1312th Move:
+052
+314
+786
+at the 1313th Move:
+352
+014
+786
+at the 1314th Move:
+352
+104
+786
+at the 1315th Move:
+352
+140
+786
+at the 1316th Move:
+350
+142
+786
+at the 1317th Move:
+305
+142
+786
+at the 1318th Move:
+035
+142
+786
+at the 1319th Move:
+135
+042
+786
+at the 1320th Move:
+135
+402
+786
+at the 1321th Move:
+135
+420
+786
+at the 1322th Move:
+130
+425
+786
+at the 1323th Move:
+103
+425
+786
+at the 1324th Move:
+123
+405
+786
+at the 1325th Move:
+123
+450
+786
+at the 1326th Move:
+123
+456
+780
+
+Process finished with exit code 0

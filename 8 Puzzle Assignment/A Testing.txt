@@ -1,0 +1,589 @@
+"D:\projects\Puzzle game\cmake-build-debug\Puzzle_game.exe"
+input the initial puzzle configuration you can use any character as the blank cell but don't make it empty:
+231
+456
+780
+THE PATH TO FIND THE GOAL IS: 144
+
+at the 0th Move:
+231
+456
+780
+at the 1th Move:
+231
+450
+786
+at the 2th Move:
+231
+405
+786
+at the 3th Move:
+231
+045
+786
+at the 4th Move:
+031
+245
+786
+at the 5th Move:
+301
+245
+786
+at the 6th Move:
+341
+205
+786
+at the 7th Move:
+341
+285
+706
+at the 8th Move:
+341
+285
+076
+at the 9th Move:
+341
+085
+276
+at the 10th Move:
+341
+805
+276
+at the 11th Move:
+341
+875
+206
+at the 12th Move:
+341
+875
+260
+at the 13th Move:
+341
+870
+265
+at the 14th Move:
+340
+871
+265
+at the 15th Move:
+304
+871
+265
+at the 16th Move:
+374
+801
+265
+at the 17th Move:
+374
+081
+265
+at the 18th Move:
+074
+381
+265
+at the 19th Move:
+704
+381
+265
+at the 20th Move:
+784
+301
+265
+at the 21th Move:
+784
+310
+265
+at the 22th Move:
+780
+314
+265
+at the 23th Move:
+708
+314
+265
+at the 24th Move:
+078
+314
+265
+at the 25th Move:
+378
+014
+265
+at the 26th Move:
+378
+214
+065
+at the 27th Move:
+378
+214
+605
+at the 28th Move:
+378
+204
+615
+at the 29th Move:
+378
+024
+615
+at the 30th Move:
+078
+324
+615
+at the 31th Move:
+708
+324
+615
+at the 32th Move:
+780
+324
+615
+at the 33th Move:
+784
+320
+615
+at the 34th Move:
+784
+302
+615
+at the 35th Move:
+704
+382
+615
+at the 36th Move:
+074
+382
+615
+at the 37th Move:
+374
+082
+615
+at the 38th Move:
+374
+802
+615
+at the 39th Move:
+374
+820
+615
+at the 40th Move:
+374
+825
+610
+at the 41th Move:
+374
+825
+601
+at the 42th Move:
+374
+805
+621
+at the 43th Move:
+374
+850
+621
+at the 44th Move:
+370
+854
+621
+at the 45th Move:
+307
+854
+621
+at the 46th Move:
+357
+804
+621
+at the 47th Move:
+357
+084
+621
+at the 48th Move:
+057
+384
+621
+at the 49th Move:
+507
+384
+621
+at the 50th Move:
+570
+384
+621
+at the 51th Move:
+574
+380
+621
+at the 52th Move:
+574
+308
+621
+at the 53th Move:
+504
+378
+621
+at the 54th Move:
+540
+378
+621
+at the 55th Move:
+548
+370
+621
+at the 56th Move:
+548
+307
+621
+at the 57th Move:
+548
+037
+621
+at the 58th Move:
+548
+637
+021
+at the 59th Move:
+548
+637
+201
+at the 60th Move:
+548
+607
+231
+at the 61th Move:
+508
+647
+231
+at the 62th Move:
+580
+647
+231
+at the 63th Move:
+587
+640
+231
+at the 64th Move:
+587
+604
+231
+at the 65th Move:
+587
+064
+231
+at the 66th Move:
+587
+264
+031
+at the 67th Move:
+587
+264
+301
+at the 68th Move:
+587
+204
+361
+at the 69th Move:
+587
+024
+361
+at the 70th Move:
+087
+524
+361
+at the 71th Move:
+807
+524
+361
+at the 72th Move:
+870
+524
+361
+at the 73th Move:
+874
+520
+361
+at the 74th Move:
+874
+502
+361
+at the 75th Move:
+874
+562
+301
+at the 76th Move:
+874
+562
+031
+at the 77th Move:
+874
+062
+531
+at the 78th Move:
+874
+602
+531
+at the 79th Move:
+804
+672
+531
+at the 80th Move:
+084
+672
+531
+at the 81th Move:
+684
+072
+531
+at the 82th Move:
+684
+572
+031
+at the 83th Move:
+684
+572
+301
+at the 84th Move:
+684
+572
+310
+at the 85th Move:
+684
+570
+312
+at the 86th Move:
+684
+507
+312
+at the 87th Move:
+604
+587
+312
+at the 88th Move:
+640
+587
+312
+at the 89th Move:
+647
+580
+312
+at the 90th Move:
+647
+582
+310
+at the 91th Move:
+647
+582
+301
+at the 92th Move:
+647
+582
+031
+at the 93th Move:
+647
+082
+531
+at the 94th Move:
+647
+802
+531
+at the 95th Move:
+647
+820
+531
+at the 96th Move:
+640
+827
+531
+at the 97th Move:
+604
+827
+531
+at the 98th Move:
+064
+827
+531
+at the 99th Move:
+864
+027
+531
+at the 100th Move:
+864
+527
+031
+at the 101th Move:
+864
+527
+301
+at the 102th Move:
+864
+507
+321
+at the 103th Move:
+804
+567
+321
+at the 104th Move:
+084
+567
+321
+at the 105th Move:
+584
+067
+321
+at the 106th Move:
+584
+607
+321
+at the 107th Move:
+584
+627
+301
+at the 108th Move:
+584
+627
+031
+at the 109th Move:
+584
+027
+631
+at the 110th Move:
+584
+207
+631
+at the 111th Move:
+584
+237
+601
+at the 112th Move:
+584
+237
+061
+at the 113th Move:
+584
+037
+261
+at the 114th Move:
+584
+307
+261
+at the 115th Move:
+584
+370
+261
+at the 116th Move:
+580
+374
+261
+at the 117th Move:
+508
+374
+261
+at the 118th Move:
+578
+304
+261
+at the 119th Move:
+578
+034
+261
+at the 120th Move:
+078
+534
+261
+at the 121th Move:
+708
+534
+261
+at the 122th Move:
+738
+504
+261
+at the 123th Move:
+738
+540
+261
+at the 124th Move:
+730
+548
+261
+at the 125th Move:
+703
+548
+261
+at the 126th Move:
+743
+508
+261
+at the 127th Move:
+743
+568
+201
+at the 128th Move:
+743
+568
+210
+at the 129th Move:
+743
+560
+218
+at the 130th Move:
+743
+506
+218
+at the 131th Move:
+743
+516
+208
+at the 132th Move:
+743
+516
+028
+at the 133th Move:
+743
+016
+528
+at the 134th Move:
+043
+716
+528
+at the 135th Move:
+403
+716
+528
+at the 136th Move:
+413
+706
+528
+at the 137th Move:
+413
+726
+508
+at the 138th Move:
+413
+726
+058
+at the 139th Move:
+413
+026
+758
+at the 140th Move:
+013
+426
+758
+at the 141th Move:
+103
+426
+758
+at the 142th Move:
+123
+406
+758
+at the 143th Move:
+123
+456
+708
+at the 144th Move:
+123
+456
+780
+
+Process finished with exit code 0

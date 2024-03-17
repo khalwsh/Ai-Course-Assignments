@@ -1,0 +1,531 @@
+231
+456
+780
+THE PATH TO FIND THE GOAL IS: 130
+
+at the 0th Move:
+231
+456
+780
+at the 1th Move:
+231
+450
+786
+at the 2th Move:
+231
+405
+786
+at the 3th Move:
+231
+485
+706
+at the 4th Move:
+231
+485
+760
+at the 5th Move:
+231
+480
+765
+at the 6th Move:
+231
+408
+765
+at the 7th Move:
+231
+048
+765
+at the 8th Move:
+231
+748
+065
+at the 9th Move:
+231
+748
+605
+at the 10th Move:
+231
+708
+645
+at the 11th Move:
+231
+078
+645
+at the 12th Move:
+031
+278
+645
+at the 13th Move:
+301
+278
+645
+at the 14th Move:
+371
+208
+645
+at the 15th Move:
+371
+280
+645
+at the 16th Move:
+370
+281
+645
+at the 17th Move:
+307
+281
+645
+at the 18th Move:
+387
+201
+645
+at the 19th Move:
+387
+210
+645
+at the 20th Move:
+387
+215
+640
+at the 21th Move:
+387
+215
+604
+at the 22th Move:
+387
+205
+614
+at the 23th Move:
+387
+025
+614
+at the 24th Move:
+087
+325
+614
+at the 25th Move:
+807
+325
+614
+at the 26th Move:
+870
+325
+614
+at the 27th Move:
+875
+320
+614
+at the 28th Move:
+875
+324
+610
+at the 29th Move:
+875
+324
+601
+at the 30th Move:
+875
+304
+621
+at the 31th Move:
+805
+374
+621
+at the 32th Move:
+850
+374
+621
+at the 33th Move:
+854
+370
+621
+at the 34th Move:
+854
+307
+621
+at the 35th Move:
+854
+327
+601
+at the 36th Move:
+854
+327
+061
+at the 37th Move:
+854
+027
+361
+at the 38th Move:
+854
+207
+361
+at the 39th Move:
+854
+267
+301
+at the 40th Move:
+854
+267
+031
+at the 41th Move:
+854
+067
+231
+at the 42th Move:
+854
+607
+231
+at the 43th Move:
+804
+657
+231
+at the 44th Move:
+084
+657
+231
+at the 45th Move:
+684
+057
+231
+at the 46th Move:
+684
+507
+231
+at the 47th Move:
+604
+587
+231
+at the 48th Move:
+640
+587
+231
+at the 49th Move:
+647
+580
+231
+at the 50th Move:
+647
+508
+231
+at the 51th Move:
+607
+548
+231
+at the 52th Move:
+670
+548
+231
+at the 53th Move:
+678
+540
+231
+at the 54th Move:
+678
+504
+231
+at the 55th Move:
+678
+534
+201
+at the 56th Move:
+678
+534
+021
+at the 57th Move:
+678
+034
+521
+at the 58th Move:
+678
+304
+521
+at the 59th Move:
+678
+340
+521
+at the 60th Move:
+670
+348
+521
+at the 61th Move:
+607
+348
+521
+at the 62th Move:
+647
+308
+521
+at the 63th Move:
+647
+328
+501
+at the 64th Move:
+647
+328
+051
+at the 65th Move:
+647
+028
+351
+at the 66th Move:
+647
+208
+351
+at the 67th Move:
+647
+280
+351
+at the 68th Move:
+647
+281
+350
+at the 69th Move:
+647
+281
+305
+at the 70th Move:
+647
+281
+035
+at the 71th Move:
+647
+081
+235
+at the 72th Move:
+647
+801
+235
+at the 73th Move:
+647
+810
+235
+at the 74th Move:
+640
+817
+235
+at the 75th Move:
+604
+817
+235
+at the 76th Move:
+064
+817
+235
+at the 77th Move:
+864
+017
+235
+at the 78th Move:
+864
+217
+035
+at the 79th Move:
+864
+217
+305
+at the 80th Move:
+864
+207
+315
+at the 81th Move:
+864
+027
+315
+at the 82th Move:
+064
+827
+315
+at the 83th Move:
+604
+827
+315
+at the 84th Move:
+640
+827
+315
+at the 85th Move:
+647
+820
+315
+at the 86th Move:
+647
+825
+310
+at the 87th Move:
+647
+825
+301
+at the 88th Move:
+647
+805
+321
+at the 89th Move:
+647
+850
+321
+at the 90th Move:
+640
+857
+321
+at the 91th Move:
+604
+857
+321
+at the 92th Move:
+064
+857
+321
+at the 93th Move:
+864
+057
+321
+at the 94th Move:
+864
+507
+321
+at the 95th Move:
+804
+567
+321
+at the 96th Move:
+084
+567
+321
+at the 97th Move:
+584
+067
+321
+at the 98th Move:
+584
+607
+321
+at the 99th Move:
+584
+627
+301
+at the 100th Move:
+584
+627
+310
+at the 101th Move:
+584
+620
+317
+at the 102th Move:
+584
+602
+317
+at the 103th Move:
+584
+612
+307
+at the 104th Move:
+584
+612
+037
+at the 105th Move:
+584
+012
+637
+at the 106th Move:
+084
+512
+637
+at the 107th Move:
+804
+512
+637
+at the 108th Move:
+840
+512
+637
+at the 109th Move:
+842
+510
+637
+at the 110th Move:
+842
+517
+630
+at the 111th Move:
+842
+517
+603
+at the 112th Move:
+842
+517
+063
+at the 113th Move:
+842
+017
+563
+at the 114th Move:
+042
+817
+563
+at the 115th Move:
+402
+817
+563
+at the 116th Move:
+412
+807
+563
+at the 117th Move:
+412
+870
+563
+at the 118th Move:
+412
+873
+560
+at the 119th Move:
+412
+873
+506
+at the 120th Move:
+412
+803
+576
+at the 121th Move:
+412
+083
+576
+at the 122th Move:
+412
+583
+076
+at the 123th Move:
+412
+583
+706
+at the 124th Move:
+412
+503
+786
+at the 125th Move:
+412
+053
+786
+at the 126th Move:
+012
+453
+786
+at the 127th Move:
+102
+453
+786
+at the 128th Move:
+120
+453
+786
+at the 129th Move:
+123
+450
+786
+at the 130th Move:
+123
+456
+780
+
+Process finished with exit code 0
